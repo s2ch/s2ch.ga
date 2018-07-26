@@ -1,14 +1,14 @@
 body {
 background: #ff531a;
-	    font-family: monospace;
-	    text-align: center;
+font-family: monospace;
+text-align: center;
 color: #ffffff;
 }
 
 a:link, a:visited, a:hover, a:active {
 color: #000000;
-       text-decoration: none;
-  }
+text-decoration: none;
+}
 
 .center {
 position:absolute;
